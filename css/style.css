@@ -27,7 +27,14 @@ h5,
 h6 {
   font-family: "Tajawal", sans-serif;
 }
-
+.logo {
+  text-align: center;
+}
+.logo p {
+  font-size: 15px;
+  margin: 0;
+  color: black;
+}
 /*--------------------------------------------------------------
 # Back to top button
 --------------------------------------------------------------*/
